@@ -1,1 +1,0 @@
-# sharpen-filter-dual-core
